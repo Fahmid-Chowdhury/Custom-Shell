@@ -33,7 +33,7 @@ gcc -o bracushell shell.c
 
 ## Then you’ll see:
 
-✨ Welcome to Bracu Badda Shell ✨
+✨ Welcome to Bracu Badda Shell ✨  
 Type 'exit' to return to Mohakhali
 
 sh>
