@@ -31,7 +31,7 @@ gcc -o bracushell shell.c
 ## How to Run
 ./bracushell
 
-##Then you’ll see:
+## Then you’ll see:
 
 ✨ Welcome to Bracu Badda Shell ✨
 Type 'exit' to return to Mohakhali
